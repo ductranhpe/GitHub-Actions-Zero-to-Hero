@@ -1,6 +1,6 @@
 # app.py
 # This is a test commit
-# Add a test commit
+# Enable workflow. 
 def add(a, b):
     return a + b
 
